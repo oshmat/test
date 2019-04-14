@@ -1,7 +1,11 @@
 hello world
-#Test Teitle
+
+#Test Title
+
 ##Heading 1,...
+
 ###Hesading 2.....
+
 * dogs
 * microcontrollers
 * hikes
